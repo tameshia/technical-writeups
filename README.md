@@ -5,10 +5,11 @@ A collection of structured lab writeups, technical notes, and documentation that
 This repository highlights hands-on learning in cybersecurity, cloud, system administration, and foundational IT topics through clear technical documentation and lab-based notes.
 
 ---
+## Writeups
+- [Identifying Failed Logon Attempts](./failed-logon-attempts.md)
 
 ## Planned Writeups
 - Windows User and Group Management
-- Identifying Failed Logon Attempts
 - Snort Monitoring Basics
 - AWS IAM Lab Notes
 
