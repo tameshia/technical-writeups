@@ -7,6 +7,7 @@ This repository highlights hands-on learning in cybersecurity, cloud, system adm
 ---
 ## Writeups
 - [Identifying Failed Logon Attempts](./failed-logon-attempts.md)
+- [Reading Logs in Splunk: A Beginner SIEM Lab](./splunk-beginner-log-lab.md)
 
 ## Planned Writeups
 - Windows User and Group Management
