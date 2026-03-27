@@ -30,5 +30,4 @@ This lab helped me better understand how Windows tracks authentication activity 
 Failed logon attempts can be an early sign of account misuse, password issues, or unauthorized access attempts. Knowing how to identify and review these events is a useful foundational skill in IT support, system administration, and cybersecurity.
 
 ## Screenshots
-![Event Viewer Security Log](./images/failed-logon-security-log.png)
 _Add screenshots of Event Viewer, the Security log, and relevant failed logon events here._
