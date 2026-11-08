@@ -29,5 +29,10 @@ This lab helped me better understand how Windows tracks authentication activity 
 ## Why It Matters
 Failed logon attempts can be an early sign of account misuse, password issues, or unauthorized access attempts. Knowing how to identify and review these events is a useful foundational skill in IT support, system administration, and cybersecurity.
 
-## Screenshots
-_Add screenshots of Event Viewer, the Security log, and relevant failed logon events here._
+## Related Hands-On Project
+
+For the complete documented exercise, including Windows Event Viewer screenshots and the Event ID 4625 investigation procedure, see:
+
+**[Investigating Failed Logon Attempts on Windows — Full Lab](https://github.com/tameshia/Identify-Failed-Logon-Attempts-on-Windows-Systems)**
+
+This page is a shorter written summary of the concepts and observations. I keep the screenshot-based walkthrough in the dedicated lab repository rather than duplicating the images here.
