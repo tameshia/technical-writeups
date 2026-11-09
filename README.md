@@ -6,6 +6,8 @@ A collection of concise technical explanations, lab reflections, and study notes
 
 ## Writeups Based on Completed Labs
 
+- **[Implementing and Validating Windows Local Security Policies](./windows-local-security-policy.md)** — Configuration, validation, and evidence-based interpretation of Windows security events. The [full Local Security Policy lab](https://github.com/tameshia/it-systems-administration/tree/main/windows-local-security-policy) includes the detailed procedure and 15 screenshot files.
+
 - **[Identifying Failed Logon Attempts in Windows Event Viewer](./failed-logon-attempts.md)** — A concise written summary of Windows Security log analysis. The [full Event Viewer lab](https://github.com/tameshia/Identify-Failed-Logon-Attempts-on-Windows-Systems) contains the detailed procedure and screenshots.
 
 ## Conceptual Learning Notes
